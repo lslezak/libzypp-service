@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<repoindex>
+    <repo
+     name="Backports Update Repository"
+     alias="backports-update"
+     enabled="true"
+     autorefresh="true"
+     url="http://download.opensuse.org/update/leap/$releasever/backports/"
+    />
+</repoindex>
